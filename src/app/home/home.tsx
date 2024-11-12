@@ -1,6 +1,6 @@
 export default function Page() {
     return (
-        <div className="flex justify-center bg-black min-h-screen">
+        <div className="flex justify-center  sm:pr-[1rem] sm:pl-[1rem] md:pr-[10rem] md:pl-[10rem] lg:pr-[25rem] lg:pl-[25rem] 2xl:pr-[40rem] 2xl:pl-[40rem] bg-black min-h-screen">
             <img 
                 src="https://th.bing.com/th/id/OIP.z8kax9MsN3MOuMlSPHEzLgHaEK?rs=1&pid=ImgDetMain" 
                 className="w-full h-80 object-cover"
